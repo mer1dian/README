@@ -1,2 +1,9 @@
-# README
-https://bitbucket.org/blockarray/
+# blockarray - documentation
+
+
+![Alt text](logo_header.png?raw=true "logo")
+
+
+We prefer MVC over GIT. We really like Bitbucket and its intergration with jira
+
+that being said, we will try and keep this repo up-to-date, anything that is open source will always be up-to-date
