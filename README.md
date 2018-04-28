@@ -20,6 +20,8 @@ Token Information<br>
 
 <br>
 ---
+<br>
+
 [![](https://img.shields.io/badge/whitepaper-v2.1.5-lightgrey.svg)](https://github.com/blockarraygroup/blockarraygroup)
 
 [![](https://img.shields.io/badge/telegram-group-blue.svg)](https://t.me/Block_Array)
